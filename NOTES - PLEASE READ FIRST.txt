@@ -1,0 +1,5 @@
+This is the source code as we shipped it.
+
+There are unused files that we never cleaned up. Scripts/Inventory is unused and many active files live in the "TestingDebug" folder. We know that this isn't good, but I didn't reorganize so that you could see the code as it actually was when we shipped.
+
+Just wanted you to know before you spent any time looking into that code! :D

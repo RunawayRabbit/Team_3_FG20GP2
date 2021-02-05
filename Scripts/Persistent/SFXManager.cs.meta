@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 66b8ee4430f9b9f4889f40c3c624dd8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - moveClick: {fileID: 8300000, guid: c20b7740cb12ff146a3e8edc66401549, type: 3}
+  - interact: {fileID: 8300000, guid: 479b64aa397e6df468ce5ff98598c3f6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
